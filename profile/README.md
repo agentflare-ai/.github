@@ -1,26 +1,22 @@
-# 🔥 AgentFlare
-
-![AgentFlare Logo](../assets/logo-light.png#gh-light-mode-only)
-![AgentFlare Logo](../assets/logo-dark.png#gh-dark-mode-only)
+![AgentFlare Logo](../assets/af2-socialbanner.png)
 
 **The Cloudflare of AI Agents - Essential infrastructure for the next generation of intelligent applications.**
 
 ## Table of Contents
 
-- [🔥 AgentFlare](#-agentflare)
-  - [Table of Contents](#table-of-contents)
-  - [🚀 What is AgentFlare?](#-what-is-agentflare)
-  - [🧠 Telepathy - See Inside Your Agents' Minds](#-telepathy---see-inside-your-agents-minds)
-  - [✨ Key Features](#-key-features)
-  - [🛠️ Getting Started](#️-getting-started)
-    - [Quick Start with Telepathy](#quick-start-with-telepathy)
-    - [Deploy Your First Agent Server](#deploy-your-first-agent-server)
-    - [📦 SDKs](#-sdks)
-  - [🌟 Why AgentFlare?](#-why-agentflare)
-  - [📚 Resources](#-resources)
-  - [🤝 Community](#-community)
-  - [👥 Contributing](#-contributing)
-  - [🏢 About Us](#-about-us)
+- [Table of Contents](#table-of-contents)
+- [🚀 What is AgentFlare?](#-what-is-agentflare)
+- [🧠 Telepathy - See Inside Your Agents' Minds](#-telepathy---see-inside-your-agents-minds)
+- [✨ Key Features](#-key-features)
+- [🛠️ Getting Started](#️-getting-started)
+  - [Quick Start with Telepathy](#quick-start-with-telepathy)
+  - [Deploy Your First Agent Server](#deploy-your-first-agent-server)
+  - [📦 SDKs](#-sdks)
+- [🌟 Why AgentFlare?](#-why-agentflare)
+- [📚 Resources](#-resources)
+- [🤝 Community](#-community)
+- [👥 Contributing](#-contributing)
+- [🏢 About Us](#-about-us)
 
 ## 🚀 What is AgentFlare?
 
